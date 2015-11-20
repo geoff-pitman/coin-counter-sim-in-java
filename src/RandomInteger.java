@@ -1,3 +1,12 @@
+// Author:  Geoffrey Pitman
+// Creation Date: March 18, 2015
+// Due Date: March 24, 2015
+// Course:  CSC 243
+// Professor Name: Dr. Kaplan
+// Assignment #2: A Coin Counter Simulation
+// Filename: RandomInteger.java
+// Purpose:  Generates a random integer in a specified range.
+
 import java.util.Random;
 
 public class RandomInteger {
