@@ -1,2 +1,2 @@
 # polymorphic-multi-threaded-coin-counter-sim-in-java 
-Coin counter simulation in Java
+Coin counter simulation in Java 
